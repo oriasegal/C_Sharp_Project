@@ -5,6 +5,6 @@
 ###### Different design patterns that are used throughout the project are observer, contract, factory method and singleton.
 ###### For better performance, a multi-thread model is used.
 
-###### The project is writen in C# with the 2019 Visual Studio environment.
+###### The project is writen in C# and .NET framework with the 2019 Visual Studio environment.
 
 https://user-images.githubusercontent.com/73060217/129623015-6ef4f4e0-8cd5-4d95-81bb-c53c3e93af1e.mp4
